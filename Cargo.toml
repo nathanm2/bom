@@ -2,7 +2,7 @@
 name = "bom"
 version = "0.1.0"
 edition = "2024"
-description = "Lists the files opened by an executable."
+description = "Find all the files opened by an executable."
 
 [dependencies]
 clap = { version = "4.6.0", features = ["derive"] }
